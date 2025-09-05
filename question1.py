@@ -26,6 +26,15 @@ def is_blocked(missile: np.ndarray, smoke: np.ndarray) -> bool:
         np.clip(cos_two_axis, -1.0, 1.0)
     )
 
+
+    # quick check when the smoke envelope the target or the missile
+    smoke_wrap_missile = dist_missile_smoke <= r_smoke
+    dist_smoke_tgt = np.linalg.norm(tgt - smoke)
+    smoke_wrap_tgt = (dist_smoke_tgt <= r_smoke - r_tgt)
+    wrap = smoke_wrap_missile or smoke_wrap_tgt
+    if wrap:
+        return wrap
+
     # check whether the smoke is between missile and target
     unit_missile_tgt = missile_tgt / dist_missile_tgt
     smoke_proj = np.dot(missile_smoke, unit_missile_tgt)
