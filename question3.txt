@@ -1,0 +1,2001 @@
+Max time in initialization: 4.4
+Generation 1/1000
+Best cover time: 4.40s
+Generation 2/1000
+Best cover time: 4.40s
+Generation 3/1000
+Best cover time: 4.40s
+Generation 4/1000
+Best cover time: 4.40s
+Generation 5/1000
+Best cover time: 4.40s
+Generation 6/1000
+Best cover time: 4.90s
+Generation 7/1000
+Best cover time: 4.90s
+Generation 8/1000
+Best cover time: 6.00s
+Generation 9/1000
+Best cover time: 6.00s
+Generation 10/1000
+Best cover time: 6.00s
+Generation 11/1000
+Best cover time: 6.00s
+Generation 12/1000
+Best cover time: 6.00s
+Generation 13/1000
+Best cover time: 6.20s
+Generation 14/1000
+Best cover time: 6.20s
+Generation 15/1000
+Best cover time: 6.20s
+Generation 16/1000
+Best cover time: 6.20s
+Generation 17/1000
+Best cover time: 6.20s
+Generation 18/1000
+Best cover time: 6.20s
+Generation 19/1000
+Best cover time: 6.20s
+Generation 20/1000
+Best cover time: 6.20s
+Generation 21/1000
+Best cover time: 6.20s
+Generation 22/1000
+Best cover time: 6.20s
+Generation 23/1000
+Best cover time: 6.70s
+Generation 24/1000
+Best cover time: 6.70s
+Generation 25/1000
+Best cover time: 6.70s
+Generation 26/1000
+Best cover time: 6.70s
+Generation 27/1000
+Best cover time: 6.70s
+Generation 28/1000
+Best cover time: 6.70s
+Generation 29/1000
+Best cover time: 6.70s
+Generation 30/1000
+Best cover time: 6.70s
+Generation 31/1000
+Best cover time: 6.70s
+Generation 32/1000
+Best cover time: 6.70s
+Generation 33/1000
+Best cover time: 6.70s
+Generation 34/1000
+Best cover time: 6.70s
+Generation 35/1000
+Best cover time: 6.70s
+Generation 36/1000
+Best cover time: 6.70s
+Generation 37/1000
+Best cover time: 6.70s
+Generation 38/1000
+Best cover time: 6.70s
+Generation 39/1000
+Best cover time: 6.70s
+Generation 40/1000
+Best cover time: 6.70s
+Generation 41/1000
+Best cover time: 6.70s
+Generation 42/1000
+Best cover time: 6.70s
+Generation 43/1000
+Best cover time: 6.70s
+Generation 44/1000
+Best cover time: 6.70s
+Generation 45/1000
+Best cover time: 6.70s
+Generation 46/1000
+Best cover time: 6.70s
+Generation 47/1000
+Best cover time: 6.70s
+Generation 48/1000
+Best cover time: 6.70s
+Generation 49/1000
+Best cover time: 6.70s
+Generation 50/1000
+Best cover time: 6.70s
+Generation 51/1000
+Best cover time: 6.70s
+Generation 52/1000
+Best cover time: 6.70s
+Generation 53/1000
+Best cover time: 6.70s
+Generation 54/1000
+Best cover time: 6.70s
+Generation 55/1000
+Best cover time: 6.70s
+Generation 56/1000
+Best cover time: 6.70s
+Generation 57/1000
+Best cover time: 6.70s
+Generation 58/1000
+Best cover time: 6.70s
+Generation 59/1000
+Best cover time: 6.70s
+Generation 60/1000
+Best cover time: 6.70s
+Generation 61/1000
+Best cover time: 6.70s
+Generation 62/1000
+Best cover time: 6.70s
+Generation 63/1000
+Best cover time: 6.70s
+Generation 64/1000
+Best cover time: 6.70s
+Generation 65/1000
+Best cover time: 6.70s
+Generation 66/1000
+Best cover time: 6.70s
+Generation 67/1000
+Best cover time: 6.70s
+Generation 68/1000
+Best cover time: 6.70s
+Generation 69/1000
+Best cover time: 6.70s
+Generation 70/1000
+Best cover time: 6.70s
+Generation 71/1000
+Best cover time: 6.70s
+Generation 72/1000
+Best cover time: 6.70s
+Generation 73/1000
+Best cover time: 6.70s
+Generation 74/1000
+Best cover time: 6.70s
+Generation 75/1000
+Best cover time: 6.70s
+Generation 76/1000
+Best cover time: 6.70s
+Generation 77/1000
+Best cover time: 6.70s
+Generation 78/1000
+Best cover time: 6.80s
+Generation 79/1000
+Best cover time: 7.00s
+Generation 80/1000
+Best cover time: 7.00s
+Generation 81/1000
+Best cover time: 7.00s
+Generation 82/1000
+Best cover time: 7.00s
+Generation 83/1000
+Best cover time: 7.00s
+Generation 84/1000
+Best cover time: 7.00s
+Generation 85/1000
+Best cover time: 7.00s
+Generation 86/1000
+Best cover time: 7.00s
+Generation 87/1000
+Best cover time: 7.00s
+Generation 88/1000
+Best cover time: 7.00s
+Generation 89/1000
+Best cover time: 7.00s
+Generation 90/1000
+Best cover time: 7.00s
+Generation 91/1000
+Best cover time: 7.00s
+Generation 92/1000
+Best cover time: 7.00s
+Generation 93/1000
+Best cover time: 7.00s
+Generation 94/1000
+Best cover time: 7.00s
+Generation 95/1000
+Best cover time: 7.00s
+Generation 96/1000
+Best cover time: 7.00s
+Generation 97/1000
+Best cover time: 7.00s
+Generation 98/1000
+Best cover time: 7.00s
+Generation 99/1000
+Best cover time: 7.00s
+Generation 100/1000
+Best cover time: 7.00s
+Generation 101/1000
+Best cover time: 7.00s
+Generation 102/1000
+Best cover time: 7.00s
+Generation 103/1000
+Best cover time: 7.00s
+Generation 104/1000
+Best cover time: 7.00s
+Generation 105/1000
+Best cover time: 7.00s
+Generation 106/1000
+Best cover time: 7.00s
+Generation 107/1000
+Best cover time: 7.00s
+Generation 108/1000
+Best cover time: 7.00s
+Generation 109/1000
+Best cover time: 7.00s
+Generation 110/1000
+Best cover time: 7.00s
+Generation 111/1000
+Best cover time: 7.00s
+Generation 112/1000
+Best cover time: 7.00s
+Generation 113/1000
+Best cover time: 7.00s
+Generation 114/1000
+Best cover time: 7.00s
+Generation 115/1000
+Best cover time: 7.00s
+Generation 116/1000
+Best cover time: 7.00s
+Generation 117/1000
+Best cover time: 7.00s
+Generation 118/1000
+Best cover time: 7.00s
+Generation 119/1000
+Best cover time: 7.00s
+Generation 120/1000
+Best cover time: 7.00s
+Generation 121/1000
+Best cover time: 7.00s
+Generation 122/1000
+Best cover time: 7.00s
+Generation 123/1000
+Best cover time: 7.00s
+Generation 124/1000
+Best cover time: 7.00s
+Generation 125/1000
+Best cover time: 7.00s
+Generation 126/1000
+Best cover time: 7.00s
+Generation 127/1000
+Best cover time: 7.00s
+Generation 128/1000
+Best cover time: 7.00s
+Generation 129/1000
+Best cover time: 7.00s
+Generation 130/1000
+Best cover time: 7.00s
+Generation 131/1000
+Best cover time: 7.00s
+Generation 132/1000
+Best cover time: 7.00s
+Generation 133/1000
+Best cover time: 7.00s
+Generation 134/1000
+Best cover time: 7.00s
+Generation 135/1000
+Best cover time: 7.00s
+Generation 136/1000
+Best cover time: 7.00s
+Generation 137/1000
+Best cover time: 7.00s
+Generation 138/1000
+Best cover time: 7.00s
+Generation 139/1000
+Best cover time: 7.00s
+Generation 140/1000
+Best cover time: 7.00s
+Generation 141/1000
+Best cover time: 7.00s
+Generation 142/1000
+Best cover time: 7.00s
+Generation 143/1000
+Best cover time: 7.00s
+Generation 144/1000
+Best cover time: 7.00s
+Generation 145/1000
+Best cover time: 7.00s
+Generation 146/1000
+Best cover time: 7.00s
+Generation 147/1000
+Best cover time: 7.00s
+Generation 148/1000
+Best cover time: 7.00s
+Generation 149/1000
+Best cover time: 7.00s
+Generation 150/1000
+Best cover time: 7.00s
+Generation 151/1000
+Best cover time: 7.00s
+Generation 152/1000
+Best cover time: 7.00s
+Generation 153/1000
+Best cover time: 7.00s
+Generation 154/1000
+Best cover time: 7.00s
+Generation 155/1000
+Best cover time: 7.00s
+Generation 156/1000
+Best cover time: 7.00s
+Generation 157/1000
+Best cover time: 7.00s
+Generation 158/1000
+Best cover time: 7.00s
+Generation 159/1000
+Best cover time: 7.00s
+Generation 160/1000
+Best cover time: 7.00s
+Generation 161/1000
+Best cover time: 7.30s
+Generation 162/1000
+Best cover time: 7.30s
+Generation 163/1000
+Best cover time: 7.30s
+Generation 164/1000
+Best cover time: 7.30s
+Generation 165/1000
+Best cover time: 7.30s
+Generation 166/1000
+Best cover time: 7.30s
+Generation 167/1000
+Best cover time: 7.30s
+Generation 168/1000
+Best cover time: 7.30s
+Generation 169/1000
+Best cover time: 7.30s
+Generation 170/1000
+Best cover time: 7.30s
+Generation 171/1000
+Best cover time: 7.30s
+Generation 172/1000
+Best cover time: 7.30s
+Generation 173/1000
+Best cover time: 7.30s
+Generation 174/1000
+Best cover time: 7.30s
+Generation 175/1000
+Best cover time: 7.30s
+Generation 176/1000
+Best cover time: 7.30s
+Generation 177/1000
+Best cover time: 7.30s
+Generation 178/1000
+Best cover time: 7.30s
+Generation 179/1000
+Best cover time: 7.30s
+Generation 180/1000
+Best cover time: 7.30s
+Generation 181/1000
+Best cover time: 7.30s
+Generation 182/1000
+Best cover time: 7.30s
+Generation 183/1000
+Best cover time: 7.30s
+Generation 184/1000
+Best cover time: 7.30s
+Generation 185/1000
+Best cover time: 7.30s
+Generation 186/1000
+Best cover time: 7.30s
+Generation 187/1000
+Best cover time: 7.30s
+Generation 188/1000
+Best cover time: 7.30s
+Generation 189/1000
+Best cover time: 7.30s
+Generation 190/1000
+Best cover time: 7.30s
+Generation 191/1000
+Best cover time: 7.30s
+Generation 192/1000
+Best cover time: 7.30s
+Generation 193/1000
+Best cover time: 7.30s
+Generation 194/1000
+Best cover time: 7.30s
+Generation 195/1000
+Best cover time: 7.30s
+Generation 196/1000
+Best cover time: 7.30s
+Generation 197/1000
+Best cover time: 7.30s
+Generation 198/1000
+Best cover time: 7.30s
+Generation 199/1000
+Best cover time: 7.30s
+Generation 200/1000
+Best cover time: 7.30s
+Generation 201/1000
+Best cover time: 7.30s
+Generation 202/1000
+Best cover time: 7.30s
+Generation 203/1000
+Best cover time: 7.30s
+Generation 204/1000
+Best cover time: 7.30s
+Generation 205/1000
+Best cover time: 7.30s
+Generation 206/1000
+Best cover time: 7.30s
+Generation 207/1000
+Best cover time: 7.30s
+Generation 208/1000
+Best cover time: 7.30s
+Generation 209/1000
+Best cover time: 7.30s
+Generation 210/1000
+Best cover time: 7.30s
+Generation 211/1000
+Best cover time: 7.30s
+Generation 212/1000
+Best cover time: 7.30s
+Generation 213/1000
+Best cover time: 7.30s
+Generation 214/1000
+Best cover time: 7.30s
+Generation 215/1000
+Best cover time: 7.30s
+Generation 216/1000
+Best cover time: 7.30s
+Generation 217/1000
+Best cover time: 7.30s
+Generation 218/1000
+Best cover time: 7.30s
+Generation 219/1000
+Best cover time: 7.30s
+Generation 220/1000
+Best cover time: 7.30s
+Generation 221/1000
+Best cover time: 7.30s
+Generation 222/1000
+Best cover time: 7.30s
+Generation 223/1000
+Best cover time: 7.30s
+Generation 224/1000
+Best cover time: 7.30s
+Generation 225/1000
+Best cover time: 7.30s
+Generation 226/1000
+Best cover time: 7.30s
+Generation 227/1000
+Best cover time: 7.30s
+Generation 228/1000
+Best cover time: 7.30s
+Generation 229/1000
+Best cover time: 7.30s
+Generation 230/1000
+Best cover time: 7.30s
+Generation 231/1000
+Best cover time: 7.30s
+Generation 232/1000
+Best cover time: 7.30s
+Generation 233/1000
+Best cover time: 7.30s
+Generation 234/1000
+Best cover time: 7.30s
+Generation 235/1000
+Best cover time: 7.30s
+Generation 236/1000
+Best cover time: 7.30s
+Generation 237/1000
+Best cover time: 7.30s
+Generation 238/1000
+Best cover time: 7.30s
+Generation 239/1000
+Best cover time: 7.30s
+Generation 240/1000
+Best cover time: 7.30s
+Generation 241/1000
+Best cover time: 7.30s
+Generation 242/1000
+Best cover time: 7.30s
+Generation 243/1000
+Best cover time: 7.30s
+Generation 244/1000
+Best cover time: 7.30s
+Generation 245/1000
+Best cover time: 7.30s
+Generation 246/1000
+Best cover time: 7.30s
+Generation 247/1000
+Best cover time: 7.30s
+Generation 248/1000
+Best cover time: 7.30s
+Generation 249/1000
+Best cover time: 7.30s
+Generation 250/1000
+Best cover time: 7.30s
+Generation 251/1000
+Best cover time: 7.30s
+Generation 252/1000
+Best cover time: 7.30s
+Generation 253/1000
+Best cover time: 7.30s
+Generation 254/1000
+Best cover time: 7.30s
+Generation 255/1000
+Best cover time: 7.30s
+Generation 256/1000
+Best cover time: 7.30s
+Generation 257/1000
+Best cover time: 7.30s
+Generation 258/1000
+Best cover time: 7.30s
+Generation 259/1000
+Best cover time: 7.30s
+Generation 260/1000
+Best cover time: 7.30s
+Generation 261/1000
+Best cover time: 7.30s
+Generation 262/1000
+Best cover time: 7.30s
+Generation 263/1000
+Best cover time: 7.30s
+Generation 264/1000
+Best cover time: 7.30s
+Generation 265/1000
+Best cover time: 7.30s
+Generation 266/1000
+Best cover time: 7.30s
+Generation 267/1000
+Best cover time: 7.30s
+Generation 268/1000
+Best cover time: 7.30s
+Generation 269/1000
+Best cover time: 7.30s
+Generation 270/1000
+Best cover time: 7.30s
+Generation 271/1000
+Best cover time: 7.30s
+Generation 272/1000
+Best cover time: 7.30s
+Generation 273/1000
+Best cover time: 7.30s
+Generation 274/1000
+Best cover time: 7.30s
+Generation 275/1000
+Best cover time: 7.30s
+Generation 276/1000
+Best cover time: 7.30s
+Generation 277/1000
+Best cover time: 7.30s
+Generation 278/1000
+Best cover time: 7.30s
+Generation 279/1000
+Best cover time: 7.30s
+Generation 280/1000
+Best cover time: 7.30s
+Generation 281/1000
+Best cover time: 7.30s
+Generation 282/1000
+Best cover time: 7.30s
+Generation 283/1000
+Best cover time: 7.30s
+Generation 284/1000
+Best cover time: 7.30s
+Generation 285/1000
+Best cover time: 7.30s
+Generation 286/1000
+Best cover time: 7.30s
+Generation 287/1000
+Best cover time: 7.30s
+Generation 288/1000
+Best cover time: 7.30s
+Generation 289/1000
+Best cover time: 7.30s
+Generation 290/1000
+Best cover time: 7.30s
+Generation 291/1000
+Best cover time: 7.30s
+Generation 292/1000
+Best cover time: 7.30s
+Generation 293/1000
+Best cover time: 7.30s
+Generation 294/1000
+Best cover time: 7.30s
+Generation 295/1000
+Best cover time: 7.30s
+Generation 296/1000
+Best cover time: 7.30s
+Generation 297/1000
+Best cover time: 7.30s
+Generation 298/1000
+Best cover time: 7.30s
+Generation 299/1000
+Best cover time: 7.30s
+Generation 300/1000
+Best cover time: 7.30s
+Generation 301/1000
+Best cover time: 7.30s
+Generation 302/1000
+Best cover time: 7.30s
+Generation 303/1000
+Best cover time: 7.30s
+Generation 304/1000
+Best cover time: 7.30s
+Generation 305/1000
+Best cover time: 7.30s
+Generation 306/1000
+Best cover time: 7.30s
+Generation 307/1000
+Best cover time: 7.30s
+Generation 308/1000
+Best cover time: 7.30s
+Generation 309/1000
+Best cover time: 7.30s
+Generation 310/1000
+Best cover time: 7.30s
+Generation 311/1000
+Best cover time: 7.30s
+Generation 312/1000
+Best cover time: 7.30s
+Generation 313/1000
+Best cover time: 7.30s
+Generation 314/1000
+Best cover time: 7.30s
+Generation 315/1000
+Best cover time: 7.30s
+Generation 316/1000
+Best cover time: 7.30s
+Generation 317/1000
+Best cover time: 7.30s
+Generation 318/1000
+Best cover time: 7.30s
+Generation 319/1000
+Best cover time: 7.30s
+Generation 320/1000
+Best cover time: 7.30s
+Generation 321/1000
+Best cover time: 7.30s
+Generation 322/1000
+Best cover time: 7.30s
+Generation 323/1000
+Best cover time: 7.30s
+Generation 324/1000
+Best cover time: 7.30s
+Generation 325/1000
+Best cover time: 7.30s
+Generation 326/1000
+Best cover time: 7.30s
+Generation 327/1000
+Best cover time: 7.30s
+Generation 328/1000
+Best cover time: 7.30s
+Generation 329/1000
+Best cover time: 7.30s
+Generation 330/1000
+Best cover time: 7.30s
+Generation 331/1000
+Best cover time: 7.30s
+Generation 332/1000
+Best cover time: 7.30s
+Generation 333/1000
+Best cover time: 7.30s
+Generation 334/1000
+Best cover time: 7.30s
+Generation 335/1000
+Best cover time: 7.30s
+Generation 336/1000
+Best cover time: 7.30s
+Generation 337/1000
+Best cover time: 7.30s
+Generation 338/1000
+Best cover time: 7.30s
+Generation 339/1000
+Best cover time: 7.30s
+Generation 340/1000
+Best cover time: 7.30s
+Generation 341/1000
+Best cover time: 7.30s
+Generation 342/1000
+Best cover time: 7.30s
+Generation 343/1000
+Best cover time: 7.30s
+Generation 344/1000
+Best cover time: 7.30s
+Generation 345/1000
+Best cover time: 7.30s
+Generation 346/1000
+Best cover time: 7.30s
+Generation 347/1000
+Best cover time: 7.30s
+Generation 348/1000
+Best cover time: 7.30s
+Generation 349/1000
+Best cover time: 7.30s
+Generation 350/1000
+Best cover time: 7.30s
+Generation 351/1000
+Best cover time: 7.30s
+Generation 352/1000
+Best cover time: 7.30s
+Generation 353/1000
+Best cover time: 7.30s
+Generation 354/1000
+Best cover time: 7.30s
+Generation 355/1000
+Best cover time: 7.30s
+Generation 356/1000
+Best cover time: 7.30s
+Generation 357/1000
+Best cover time: 7.30s
+Generation 358/1000
+Best cover time: 7.30s
+Generation 359/1000
+Best cover time: 7.30s
+Generation 360/1000
+Best cover time: 7.30s
+Generation 361/1000
+Best cover time: 7.30s
+Generation 362/1000
+Best cover time: 7.30s
+Generation 363/1000
+Best cover time: 7.30s
+Generation 364/1000
+Best cover time: 7.30s
+Generation 365/1000
+Best cover time: 7.30s
+Generation 366/1000
+Best cover time: 7.30s
+Generation 367/1000
+Best cover time: 7.30s
+Generation 368/1000
+Best cover time: 7.30s
+Generation 369/1000
+Best cover time: 7.30s
+Generation 370/1000
+Best cover time: 7.30s
+Generation 371/1000
+Best cover time: 7.30s
+Generation 372/1000
+Best cover time: 7.30s
+Generation 373/1000
+Best cover time: 7.30s
+Generation 374/1000
+Best cover time: 7.30s
+Generation 375/1000
+Best cover time: 7.30s
+Generation 376/1000
+Best cover time: 7.30s
+Generation 377/1000
+Best cover time: 7.30s
+Generation 378/1000
+Best cover time: 7.30s
+Generation 379/1000
+Best cover time: 7.30s
+Generation 380/1000
+Best cover time: 7.30s
+Generation 381/1000
+Best cover time: 7.30s
+Generation 382/1000
+Best cover time: 7.30s
+Generation 383/1000
+Best cover time: 7.30s
+Generation 384/1000
+Best cover time: 7.30s
+Generation 385/1000
+Best cover time: 7.30s
+Generation 386/1000
+Best cover time: 7.30s
+Generation 387/1000
+Best cover time: 7.30s
+Generation 388/1000
+Best cover time: 7.30s
+Generation 389/1000
+Best cover time: 7.30s
+Generation 390/1000
+Best cover time: 7.30s
+Generation 391/1000
+Best cover time: 7.30s
+Generation 392/1000
+Best cover time: 7.30s
+Generation 393/1000
+Best cover time: 7.30s
+Generation 394/1000
+Best cover time: 7.30s
+Generation 395/1000
+Best cover time: 7.30s
+Generation 396/1000
+Best cover time: 7.30s
+Generation 397/1000
+Best cover time: 7.30s
+Generation 398/1000
+Best cover time: 7.30s
+Generation 399/1000
+Best cover time: 7.30s
+Generation 400/1000
+Best cover time: 7.30s
+Generation 401/1000
+Best cover time: 7.30s
+Generation 402/1000
+Best cover time: 7.30s
+Generation 403/1000
+Best cover time: 7.30s
+Generation 404/1000
+Best cover time: 7.30s
+Generation 405/1000
+Best cover time: 7.30s
+Generation 406/1000
+Best cover time: 7.30s
+Generation 407/1000
+Best cover time: 7.30s
+Generation 408/1000
+Best cover time: 7.30s
+Generation 409/1000
+Best cover time: 7.30s
+Generation 410/1000
+Best cover time: 7.30s
+Generation 411/1000
+Best cover time: 7.30s
+Generation 412/1000
+Best cover time: 7.30s
+Generation 413/1000
+Best cover time: 7.30s
+Generation 414/1000
+Best cover time: 7.30s
+Generation 415/1000
+Best cover time: 7.30s
+Generation 416/1000
+Best cover time: 7.30s
+Generation 417/1000
+Best cover time: 7.30s
+Generation 418/1000
+Best cover time: 7.30s
+Generation 419/1000
+Best cover time: 7.30s
+Generation 420/1000
+Best cover time: 7.30s
+Generation 421/1000
+Best cover time: 7.30s
+Generation 422/1000
+Best cover time: 7.30s
+Generation 423/1000
+Best cover time: 7.30s
+Generation 424/1000
+Best cover time: 7.30s
+Generation 425/1000
+Best cover time: 7.30s
+Generation 426/1000
+Best cover time: 7.30s
+Generation 427/1000
+Best cover time: 7.30s
+Generation 428/1000
+Best cover time: 7.30s
+Generation 429/1000
+Best cover time: 7.30s
+Generation 430/1000
+Best cover time: 7.30s
+Generation 431/1000
+Best cover time: 7.30s
+Generation 432/1000
+Best cover time: 7.30s
+Generation 433/1000
+Best cover time: 7.30s
+Generation 434/1000
+Best cover time: 7.30s
+Generation 435/1000
+Best cover time: 7.30s
+Generation 436/1000
+Best cover time: 7.30s
+Generation 437/1000
+Best cover time: 7.30s
+Generation 438/1000
+Best cover time: 7.30s
+Generation 439/1000
+Best cover time: 7.30s
+Generation 440/1000
+Best cover time: 7.30s
+Generation 441/1000
+Best cover time: 7.30s
+Generation 442/1000
+Best cover time: 7.30s
+Generation 443/1000
+Best cover time: 7.30s
+Generation 444/1000
+Best cover time: 7.30s
+Generation 445/1000
+Best cover time: 7.30s
+Generation 446/1000
+Best cover time: 7.30s
+Generation 447/1000
+Best cover time: 7.30s
+Generation 448/1000
+Best cover time: 7.30s
+Generation 449/1000
+Best cover time: 7.30s
+Generation 450/1000
+Best cover time: 7.30s
+Generation 451/1000
+Best cover time: 7.30s
+Generation 452/1000
+Best cover time: 7.30s
+Generation 453/1000
+Best cover time: 7.30s
+Generation 454/1000
+Best cover time: 7.30s
+Generation 455/1000
+Best cover time: 7.30s
+Generation 456/1000
+Best cover time: 7.30s
+Generation 457/1000
+Best cover time: 7.30s
+Generation 458/1000
+Best cover time: 7.30s
+Generation 459/1000
+Best cover time: 7.30s
+Generation 460/1000
+Best cover time: 7.30s
+Generation 461/1000
+Best cover time: 7.30s
+Generation 462/1000
+Best cover time: 7.30s
+Generation 463/1000
+Best cover time: 7.30s
+Generation 464/1000
+Best cover time: 7.30s
+Generation 465/1000
+Best cover time: 7.30s
+Generation 466/1000
+Best cover time: 7.30s
+Generation 467/1000
+Best cover time: 7.30s
+Generation 468/1000
+Best cover time: 7.30s
+Generation 469/1000
+Best cover time: 7.30s
+Generation 470/1000
+Best cover time: 7.30s
+Generation 471/1000
+Best cover time: 7.30s
+Generation 472/1000
+Best cover time: 7.30s
+Generation 473/1000
+Best cover time: 7.30s
+Generation 474/1000
+Best cover time: 7.30s
+Generation 475/1000
+Best cover time: 7.30s
+Generation 476/1000
+Best cover time: 7.30s
+Generation 477/1000
+Best cover time: 7.30s
+Generation 478/1000
+Best cover time: 7.30s
+Generation 479/1000
+Best cover time: 7.30s
+Generation 480/1000
+Best cover time: 7.30s
+Generation 481/1000
+Best cover time: 7.30s
+Generation 482/1000
+Best cover time: 7.30s
+Generation 483/1000
+Best cover time: 7.30s
+Generation 484/1000
+Best cover time: 7.30s
+Generation 485/1000
+Best cover time: 7.30s
+Generation 486/1000
+Best cover time: 7.30s
+Generation 487/1000
+Best cover time: 7.30s
+Generation 488/1000
+Best cover time: 7.30s
+Generation 489/1000
+Best cover time: 7.30s
+Generation 490/1000
+Best cover time: 7.30s
+Generation 491/1000
+Best cover time: 7.30s
+Generation 492/1000
+Best cover time: 7.30s
+Generation 493/1000
+Best cover time: 7.30s
+Generation 494/1000
+Best cover time: 7.30s
+Generation 495/1000
+Best cover time: 7.30s
+Generation 496/1000
+Best cover time: 7.30s
+Generation 497/1000
+Best cover time: 7.30s
+Generation 498/1000
+Best cover time: 7.30s
+Generation 499/1000
+Best cover time: 7.30s
+Generation 500/1000
+Best cover time: 7.30s
+Generation 501/1000
+Best cover time: 7.30s
+Generation 502/1000
+Best cover time: 7.30s
+Generation 503/1000
+Best cover time: 7.30s
+Generation 504/1000
+Best cover time: 7.30s
+Generation 505/1000
+Best cover time: 7.30s
+Generation 506/1000
+Best cover time: 7.30s
+Generation 507/1000
+Best cover time: 7.30s
+Generation 508/1000
+Best cover time: 7.30s
+Generation 509/1000
+Best cover time: 7.30s
+Generation 510/1000
+Best cover time: 7.30s
+Generation 511/1000
+Best cover time: 7.30s
+Generation 512/1000
+Best cover time: 7.30s
+Generation 513/1000
+Best cover time: 7.30s
+Generation 514/1000
+Best cover time: 7.30s
+Generation 515/1000
+Best cover time: 7.30s
+Generation 516/1000
+Best cover time: 7.30s
+Generation 517/1000
+Best cover time: 7.30s
+Generation 518/1000
+Best cover time: 7.30s
+Generation 519/1000
+Best cover time: 7.30s
+Generation 520/1000
+Best cover time: 7.30s
+Generation 521/1000
+Best cover time: 7.30s
+Generation 522/1000
+Best cover time: 7.30s
+Generation 523/1000
+Best cover time: 7.30s
+Generation 524/1000
+Best cover time: 7.30s
+Generation 525/1000
+Best cover time: 7.30s
+Generation 526/1000
+Best cover time: 7.30s
+Generation 527/1000
+Best cover time: 7.30s
+Generation 528/1000
+Best cover time: 7.30s
+Generation 529/1000
+Best cover time: 7.30s
+Generation 530/1000
+Best cover time: 7.30s
+Generation 531/1000
+Best cover time: 7.30s
+Generation 532/1000
+Best cover time: 7.30s
+Generation 533/1000
+Best cover time: 7.30s
+Generation 534/1000
+Best cover time: 7.30s
+Generation 535/1000
+Best cover time: 7.30s
+Generation 536/1000
+Best cover time: 7.30s
+Generation 537/1000
+Best cover time: 7.30s
+Generation 538/1000
+Best cover time: 7.30s
+Generation 539/1000
+Best cover time: 7.30s
+Generation 540/1000
+Best cover time: 7.30s
+Generation 541/1000
+Best cover time: 7.30s
+Generation 542/1000
+Best cover time: 7.30s
+Generation 543/1000
+Best cover time: 7.30s
+Generation 544/1000
+Best cover time: 7.30s
+Generation 545/1000
+Best cover time: 7.30s
+Generation 546/1000
+Best cover time: 7.30s
+Generation 547/1000
+Best cover time: 7.30s
+Generation 548/1000
+Best cover time: 7.30s
+Generation 549/1000
+Best cover time: 7.30s
+Generation 550/1000
+Best cover time: 7.30s
+Generation 551/1000
+Best cover time: 7.30s
+Generation 552/1000
+Best cover time: 7.30s
+Generation 553/1000
+Best cover time: 7.30s
+Generation 554/1000
+Best cover time: 7.30s
+Generation 555/1000
+Best cover time: 7.30s
+Generation 556/1000
+Best cover time: 7.30s
+Generation 557/1000
+Best cover time: 7.30s
+Generation 558/1000
+Best cover time: 7.30s
+Generation 559/1000
+Best cover time: 7.30s
+Generation 560/1000
+Best cover time: 7.30s
+Generation 561/1000
+Best cover time: 7.30s
+Generation 562/1000
+Best cover time: 7.30s
+Generation 563/1000
+Best cover time: 7.30s
+Generation 564/1000
+Best cover time: 7.30s
+Generation 565/1000
+Best cover time: 7.30s
+Generation 566/1000
+Best cover time: 7.30s
+Generation 567/1000
+Best cover time: 7.30s
+Generation 568/1000
+Best cover time: 7.30s
+Generation 569/1000
+Best cover time: 7.30s
+Generation 570/1000
+Best cover time: 7.30s
+Generation 571/1000
+Best cover time: 7.30s
+Generation 572/1000
+Best cover time: 7.30s
+Generation 573/1000
+Best cover time: 7.30s
+Generation 574/1000
+Best cover time: 7.30s
+Generation 575/1000
+Best cover time: 7.30s
+Generation 576/1000
+Best cover time: 7.30s
+Generation 577/1000
+Best cover time: 7.30s
+Generation 578/1000
+Best cover time: 7.30s
+Generation 579/1000
+Best cover time: 7.30s
+Generation 580/1000
+Best cover time: 7.30s
+Generation 581/1000
+Best cover time: 7.30s
+Generation 582/1000
+Best cover time: 7.30s
+Generation 583/1000
+Best cover time: 7.30s
+Generation 584/1000
+Best cover time: 7.30s
+Generation 585/1000
+Best cover time: 7.30s
+Generation 586/1000
+Best cover time: 7.30s
+Generation 587/1000
+Best cover time: 7.30s
+Generation 588/1000
+Best cover time: 7.30s
+Generation 589/1000
+Best cover time: 7.30s
+Generation 590/1000
+Best cover time: 7.30s
+Generation 591/1000
+Best cover time: 7.30s
+Generation 592/1000
+Best cover time: 7.30s
+Generation 593/1000
+Best cover time: 7.30s
+Generation 594/1000
+Best cover time: 7.30s
+Generation 595/1000
+Best cover time: 7.30s
+Generation 596/1000
+Best cover time: 7.30s
+Generation 597/1000
+Best cover time: 7.30s
+Generation 598/1000
+Best cover time: 7.30s
+Generation 599/1000
+Best cover time: 7.30s
+Generation 600/1000
+Best cover time: 7.30s
+Generation 601/1000
+Best cover time: 7.30s
+Generation 602/1000
+Best cover time: 7.30s
+Generation 603/1000
+Best cover time: 7.30s
+Generation 604/1000
+Best cover time: 7.30s
+Generation 605/1000
+Best cover time: 7.30s
+Generation 606/1000
+Best cover time: 7.30s
+Generation 607/1000
+Best cover time: 7.30s
+Generation 608/1000
+Best cover time: 7.30s
+Generation 609/1000
+Best cover time: 7.30s
+Generation 610/1000
+Best cover time: 7.30s
+Generation 611/1000
+Best cover time: 7.30s
+Generation 612/1000
+Best cover time: 7.30s
+Generation 613/1000
+Best cover time: 7.30s
+Generation 614/1000
+Best cover time: 7.30s
+Generation 615/1000
+Best cover time: 7.30s
+Generation 616/1000
+Best cover time: 7.30s
+Generation 617/1000
+Best cover time: 7.30s
+Generation 618/1000
+Best cover time: 7.30s
+Generation 619/1000
+Best cover time: 7.30s
+Generation 620/1000
+Best cover time: 7.30s
+Generation 621/1000
+Best cover time: 7.30s
+Generation 622/1000
+Best cover time: 7.30s
+Generation 623/1000
+Best cover time: 7.30s
+Generation 624/1000
+Best cover time: 7.30s
+Generation 625/1000
+Best cover time: 7.30s
+Generation 626/1000
+Best cover time: 7.30s
+Generation 627/1000
+Best cover time: 7.30s
+Generation 628/1000
+Best cover time: 7.30s
+Generation 629/1000
+Best cover time: 7.30s
+Generation 630/1000
+Best cover time: 7.30s
+Generation 631/1000
+Best cover time: 7.30s
+Generation 632/1000
+Best cover time: 7.30s
+Generation 633/1000
+Best cover time: 7.30s
+Generation 634/1000
+Best cover time: 7.30s
+Generation 635/1000
+Best cover time: 7.30s
+Generation 636/1000
+Best cover time: 7.30s
+Generation 637/1000
+Best cover time: 7.30s
+Generation 638/1000
+Best cover time: 7.30s
+Generation 639/1000
+Best cover time: 7.30s
+Generation 640/1000
+Best cover time: 7.30s
+Generation 641/1000
+Best cover time: 7.30s
+Generation 642/1000
+Best cover time: 7.30s
+Generation 643/1000
+Best cover time: 7.30s
+Generation 644/1000
+Best cover time: 7.30s
+Generation 645/1000
+Best cover time: 7.30s
+Generation 646/1000
+Best cover time: 7.30s
+Generation 647/1000
+Best cover time: 7.30s
+Generation 648/1000
+Best cover time: 7.30s
+Generation 649/1000
+Best cover time: 7.30s
+Generation 650/1000
+Best cover time: 7.30s
+Generation 651/1000
+Best cover time: 7.30s
+Generation 652/1000
+Best cover time: 7.30s
+Generation 653/1000
+Best cover time: 7.30s
+Generation 654/1000
+Best cover time: 7.30s
+Generation 655/1000
+Best cover time: 7.30s
+Generation 656/1000
+Best cover time: 7.30s
+Generation 657/1000
+Best cover time: 7.30s
+Generation 658/1000
+Best cover time: 7.30s
+Generation 659/1000
+Best cover time: 7.30s
+Generation 660/1000
+Best cover time: 7.30s
+Generation 661/1000
+Best cover time: 7.30s
+Generation 662/1000
+Best cover time: 7.30s
+Generation 663/1000
+Best cover time: 7.30s
+Generation 664/1000
+Best cover time: 7.30s
+Generation 665/1000
+Best cover time: 7.30s
+Generation 666/1000
+Best cover time: 7.30s
+Generation 667/1000
+Best cover time: 7.30s
+Generation 668/1000
+Best cover time: 7.30s
+Generation 669/1000
+Best cover time: 7.30s
+Generation 670/1000
+Best cover time: 7.30s
+Generation 671/1000
+Best cover time: 7.30s
+Generation 672/1000
+Best cover time: 7.30s
+Generation 673/1000
+Best cover time: 7.30s
+Generation 674/1000
+Best cover time: 7.30s
+Generation 675/1000
+Best cover time: 7.30s
+Generation 676/1000
+Best cover time: 7.30s
+Generation 677/1000
+Best cover time: 7.30s
+Generation 678/1000
+Best cover time: 7.30s
+Generation 679/1000
+Best cover time: 7.30s
+Generation 680/1000
+Best cover time: 7.30s
+Generation 681/1000
+Best cover time: 7.30s
+Generation 682/1000
+Best cover time: 7.30s
+Generation 683/1000
+Best cover time: 7.30s
+Generation 684/1000
+Best cover time: 7.30s
+Generation 685/1000
+Best cover time: 7.30s
+Generation 686/1000
+Best cover time: 7.30s
+Generation 687/1000
+Best cover time: 7.30s
+Generation 688/1000
+Best cover time: 7.30s
+Generation 689/1000
+Best cover time: 7.30s
+Generation 690/1000
+Best cover time: 7.30s
+Generation 691/1000
+Best cover time: 7.30s
+Generation 692/1000
+Best cover time: 7.30s
+Generation 693/1000
+Best cover time: 7.30s
+Generation 694/1000
+Best cover time: 7.30s
+Generation 695/1000
+Best cover time: 7.30s
+Generation 696/1000
+Best cover time: 7.30s
+Generation 697/1000
+Best cover time: 7.30s
+Generation 698/1000
+Best cover time: 7.30s
+Generation 699/1000
+Best cover time: 7.30s
+Generation 700/1000
+Best cover time: 7.30s
+Generation 701/1000
+Best cover time: 7.30s
+Generation 702/1000
+Best cover time: 7.30s
+Generation 703/1000
+Best cover time: 7.30s
+Generation 704/1000
+Best cover time: 7.30s
+Generation 705/1000
+Best cover time: 7.30s
+Generation 706/1000
+Best cover time: 7.30s
+Generation 707/1000
+Best cover time: 7.30s
+Generation 708/1000
+Best cover time: 7.30s
+Generation 709/1000
+Best cover time: 7.30s
+Generation 710/1000
+Best cover time: 7.30s
+Generation 711/1000
+Best cover time: 7.30s
+Generation 712/1000
+Best cover time: 7.30s
+Generation 713/1000
+Best cover time: 7.30s
+Generation 714/1000
+Best cover time: 7.30s
+Generation 715/1000
+Best cover time: 7.30s
+Generation 716/1000
+Best cover time: 7.30s
+Generation 717/1000
+Best cover time: 7.30s
+Generation 718/1000
+Best cover time: 7.30s
+Generation 719/1000
+Best cover time: 7.30s
+Generation 720/1000
+Best cover time: 7.30s
+Generation 721/1000
+Best cover time: 7.30s
+Generation 722/1000
+Best cover time: 7.30s
+Generation 723/1000
+Best cover time: 7.30s
+Generation 724/1000
+Best cover time: 7.30s
+Generation 725/1000
+Best cover time: 7.30s
+Generation 726/1000
+Best cover time: 7.30s
+Generation 727/1000
+Best cover time: 7.30s
+Generation 728/1000
+Best cover time: 7.30s
+Generation 729/1000
+Best cover time: 7.30s
+Generation 730/1000
+Best cover time: 7.30s
+Generation 731/1000
+Best cover time: 7.30s
+Generation 732/1000
+Best cover time: 7.30s
+Generation 733/1000
+Best cover time: 7.30s
+Generation 734/1000
+Best cover time: 7.30s
+Generation 735/1000
+Best cover time: 7.30s
+Generation 736/1000
+Best cover time: 7.30s
+Generation 737/1000
+Best cover time: 7.30s
+Generation 738/1000
+Best cover time: 7.30s
+Generation 739/1000
+Best cover time: 7.30s
+Generation 740/1000
+Best cover time: 7.30s
+Generation 741/1000
+Best cover time: 7.30s
+Generation 742/1000
+Best cover time: 7.30s
+Generation 743/1000
+Best cover time: 7.30s
+Generation 744/1000
+Best cover time: 7.30s
+Generation 745/1000
+Best cover time: 7.30s
+Generation 746/1000
+Best cover time: 7.30s
+Generation 747/1000
+Best cover time: 7.30s
+Generation 748/1000
+Best cover time: 7.30s
+Generation 749/1000
+Best cover time: 7.30s
+Generation 750/1000
+Best cover time: 7.30s
+Generation 751/1000
+Best cover time: 7.30s
+Generation 752/1000
+Best cover time: 7.30s
+Generation 753/1000
+Best cover time: 7.30s
+Generation 754/1000
+Best cover time: 7.30s
+Generation 755/1000
+Best cover time: 7.30s
+Generation 756/1000
+Best cover time: 7.30s
+Generation 757/1000
+Best cover time: 7.30s
+Generation 758/1000
+Best cover time: 7.30s
+Generation 759/1000
+Best cover time: 7.30s
+Generation 760/1000
+Best cover time: 7.30s
+Generation 761/1000
+Best cover time: 7.30s
+Generation 762/1000
+Best cover time: 7.30s
+Generation 763/1000
+Best cover time: 7.30s
+Generation 764/1000
+Best cover time: 7.30s
+Generation 765/1000
+Best cover time: 7.30s
+Generation 766/1000
+Best cover time: 7.30s
+Generation 767/1000
+Best cover time: 7.30s
+Generation 768/1000
+Best cover time: 7.30s
+Generation 769/1000
+Best cover time: 7.30s
+Generation 770/1000
+Best cover time: 7.30s
+Generation 771/1000
+Best cover time: 7.30s
+Generation 772/1000
+Best cover time: 7.30s
+Generation 773/1000
+Best cover time: 7.30s
+Generation 774/1000
+Best cover time: 7.30s
+Generation 775/1000
+Best cover time: 7.30s
+Generation 776/1000
+Best cover time: 7.30s
+Generation 777/1000
+Best cover time: 7.30s
+Generation 778/1000
+Best cover time: 7.30s
+Generation 779/1000
+Best cover time: 7.30s
+Generation 780/1000
+Best cover time: 7.30s
+Generation 781/1000
+Best cover time: 7.30s
+Generation 782/1000
+Best cover time: 7.30s
+Generation 783/1000
+Best cover time: 7.30s
+Generation 784/1000
+Best cover time: 7.30s
+Generation 785/1000
+Best cover time: 7.30s
+Generation 786/1000
+Best cover time: 7.30s
+Generation 787/1000
+Best cover time: 7.30s
+Generation 788/1000
+Best cover time: 7.30s
+Generation 789/1000
+Best cover time: 7.30s
+Generation 790/1000
+Best cover time: 7.30s
+Generation 791/1000
+Best cover time: 7.30s
+Generation 792/1000
+Best cover time: 7.30s
+Generation 793/1000
+Best cover time: 7.30s
+Generation 794/1000
+Best cover time: 7.30s
+Generation 795/1000
+Best cover time: 7.30s
+Generation 796/1000
+Best cover time: 7.30s
+Generation 797/1000
+Best cover time: 7.30s
+Generation 798/1000
+Best cover time: 7.30s
+Generation 799/1000
+Best cover time: 7.30s
+Generation 800/1000
+Best cover time: 7.30s
+Generation 801/1000
+Best cover time: 7.30s
+Generation 802/1000
+Best cover time: 7.30s
+Generation 803/1000
+Best cover time: 7.30s
+Generation 804/1000
+Best cover time: 7.30s
+Generation 805/1000
+Best cover time: 7.30s
+Generation 806/1000
+Best cover time: 7.30s
+Generation 807/1000
+Best cover time: 7.30s
+Generation 808/1000
+Best cover time: 7.30s
+Generation 809/1000
+Best cover time: 7.30s
+Generation 810/1000
+Best cover time: 7.30s
+Generation 811/1000
+Best cover time: 7.30s
+Generation 812/1000
+Best cover time: 7.30s
+Generation 813/1000
+Best cover time: 7.30s
+Generation 814/1000
+Best cover time: 7.30s
+Generation 815/1000
+Best cover time: 7.30s
+Generation 816/1000
+Best cover time: 7.30s
+Generation 817/1000
+Best cover time: 7.30s
+Generation 818/1000
+Best cover time: 7.30s
+Generation 819/1000
+Best cover time: 7.30s
+Generation 820/1000
+Best cover time: 7.30s
+Generation 821/1000
+Best cover time: 7.30s
+Generation 822/1000
+Best cover time: 7.30s
+Generation 823/1000
+Best cover time: 7.30s
+Generation 824/1000
+Best cover time: 7.30s
+Generation 825/1000
+Best cover time: 7.30s
+Generation 826/1000
+Best cover time: 7.30s
+Generation 827/1000
+Best cover time: 7.30s
+Generation 828/1000
+Best cover time: 7.30s
+Generation 829/1000
+Best cover time: 7.30s
+Generation 830/1000
+Best cover time: 7.30s
+Generation 831/1000
+Best cover time: 7.30s
+Generation 832/1000
+Best cover time: 7.30s
+Generation 833/1000
+Best cover time: 7.30s
+Generation 834/1000
+Best cover time: 7.30s
+Generation 835/1000
+Best cover time: 7.30s
+Generation 836/1000
+Best cover time: 7.30s
+Generation 837/1000
+Best cover time: 7.30s
+Generation 838/1000
+Best cover time: 7.30s
+Generation 839/1000
+Best cover time: 7.30s
+Generation 840/1000
+Best cover time: 7.30s
+Generation 841/1000
+Best cover time: 7.30s
+Generation 842/1000
+Best cover time: 7.30s
+Generation 843/1000
+Best cover time: 7.30s
+Generation 844/1000
+Best cover time: 7.30s
+Generation 845/1000
+Best cover time: 7.30s
+Generation 846/1000
+Best cover time: 7.30s
+Generation 847/1000
+Best cover time: 7.30s
+Generation 848/1000
+Best cover time: 7.30s
+Generation 849/1000
+Best cover time: 7.30s
+Generation 850/1000
+Best cover time: 7.30s
+Generation 851/1000
+Best cover time: 7.30s
+Generation 852/1000
+Best cover time: 7.30s
+Generation 853/1000
+Best cover time: 7.30s
+Generation 854/1000
+Best cover time: 7.30s
+Generation 855/1000
+Best cover time: 7.30s
+Generation 856/1000
+Best cover time: 7.30s
+Generation 857/1000
+Best cover time: 7.30s
+Generation 858/1000
+Best cover time: 7.30s
+Generation 859/1000
+Best cover time: 7.30s
+Generation 860/1000
+Best cover time: 7.30s
+Generation 861/1000
+Best cover time: 7.30s
+Generation 862/1000
+Best cover time: 7.30s
+Generation 863/1000
+Best cover time: 7.30s
+Generation 864/1000
+Best cover time: 7.30s
+Generation 865/1000
+Best cover time: 7.30s
+Generation 866/1000
+Best cover time: 7.30s
+Generation 867/1000
+Best cover time: 7.30s
+Generation 868/1000
+Best cover time: 7.30s
+Generation 869/1000
+Best cover time: 7.30s
+Generation 870/1000
+Best cover time: 7.30s
+Generation 871/1000
+Best cover time: 7.30s
+Generation 872/1000
+Best cover time: 7.30s
+Generation 873/1000
+Best cover time: 7.30s
+Generation 874/1000
+Best cover time: 7.30s
+Generation 875/1000
+Best cover time: 7.30s
+Generation 876/1000
+Best cover time: 7.30s
+Generation 877/1000
+Best cover time: 7.30s
+Generation 878/1000
+Best cover time: 7.30s
+Generation 879/1000
+Best cover time: 7.30s
+Generation 880/1000
+Best cover time: 7.30s
+Generation 881/1000
+Best cover time: 7.30s
+Generation 882/1000
+Best cover time: 7.30s
+Generation 883/1000
+Best cover time: 7.30s
+Generation 884/1000
+Best cover time: 7.30s
+Generation 885/1000
+Best cover time: 7.30s
+Generation 886/1000
+Best cover time: 7.30s
+Generation 887/1000
+Best cover time: 7.30s
+Generation 888/1000
+Best cover time: 7.30s
+Generation 889/1000
+Best cover time: 7.30s
+Generation 890/1000
+Best cover time: 7.30s
+Generation 891/1000
+Best cover time: 7.30s
+Generation 892/1000
+Best cover time: 7.30s
+Generation 893/1000
+Best cover time: 7.30s
+Generation 894/1000
+Best cover time: 7.30s
+Generation 895/1000
+Best cover time: 7.30s
+Generation 896/1000
+Best cover time: 7.30s
+Generation 897/1000
+Best cover time: 7.30s
+Generation 898/1000
+Best cover time: 7.30s
+Generation 899/1000
+Best cover time: 7.30s
+Generation 900/1000
+Best cover time: 7.30s
+Generation 901/1000
+Best cover time: 7.30s
+Generation 902/1000
+Best cover time: 7.30s
+Generation 903/1000
+Best cover time: 7.30s
+Generation 904/1000
+Best cover time: 7.30s
+Generation 905/1000
+Best cover time: 7.30s
+Generation 906/1000
+Best cover time: 7.30s
+Generation 907/1000
+Best cover time: 7.30s
+Generation 908/1000
+Best cover time: 7.30s
+Generation 909/1000
+Best cover time: 7.30s
+Generation 910/1000
+Best cover time: 7.30s
+Generation 911/1000
+Best cover time: 7.30s
+Generation 912/1000
+Best cover time: 7.30s
+Generation 913/1000
+Best cover time: 7.30s
+Generation 914/1000
+Best cover time: 7.30s
+Generation 915/1000
+Best cover time: 7.30s
+Generation 916/1000
+Best cover time: 7.30s
+Generation 917/1000
+Best cover time: 7.30s
+Generation 918/1000
+Best cover time: 7.30s
+Generation 919/1000
+Best cover time: 7.30s
+Generation 920/1000
+Best cover time: 7.30s
+Generation 921/1000
+Best cover time: 7.30s
+Generation 922/1000
+Best cover time: 7.30s
+Generation 923/1000
+Best cover time: 7.30s
+Generation 924/1000
+Best cover time: 7.30s
+Generation 925/1000
+Best cover time: 7.30s
+Generation 926/1000
+Best cover time: 7.30s
+Generation 927/1000
+Best cover time: 7.30s
+Generation 928/1000
+Best cover time: 7.30s
+Generation 929/1000
+Best cover time: 7.30s
+Generation 930/1000
+Best cover time: 7.30s
+Generation 931/1000
+Best cover time: 7.30s
+Generation 932/1000
+Best cover time: 7.30s
+Generation 933/1000
+Best cover time: 7.30s
+Generation 934/1000
+Best cover time: 7.30s
+Generation 935/1000
+Best cover time: 7.30s
+Generation 936/1000
+Best cover time: 7.30s
+Generation 937/1000
+Best cover time: 7.30s
+Generation 938/1000
+Best cover time: 7.30s
+Generation 939/1000
+Best cover time: 7.30s
+Generation 940/1000
+Best cover time: 7.30s
+Generation 941/1000
+Best cover time: 7.30s
+Generation 942/1000
+Best cover time: 7.30s
+Generation 943/1000
+Best cover time: 7.30s
+Generation 944/1000
+Best cover time: 7.30s
+Generation 945/1000
+Best cover time: 7.30s
+Generation 946/1000
+Best cover time: 7.30s
+Generation 947/1000
+Best cover time: 7.30s
+Generation 948/1000
+Best cover time: 7.30s
+Generation 949/1000
+Best cover time: 7.30s
+Generation 950/1000
+Best cover time: 7.30s
+Generation 951/1000
+Best cover time: 7.30s
+Generation 952/1000
+Best cover time: 7.30s
+Generation 953/1000
+Best cover time: 7.30s
+Generation 954/1000
+Best cover time: 7.30s
+Generation 955/1000
+Best cover time: 7.30s
+Generation 956/1000
+Best cover time: 7.30s
+Generation 957/1000
+Best cover time: 7.30s
+Generation 958/1000
+Best cover time: 7.30s
+Generation 959/1000
+Best cover time: 7.30s
+Generation 960/1000
+Best cover time: 7.30s
+Generation 961/1000
+Best cover time: 7.30s
+Generation 962/1000
+Best cover time: 7.30s
+Generation 963/1000
+Best cover time: 7.30s
+Generation 964/1000
+Best cover time: 7.30s
+Generation 965/1000
+Best cover time: 7.30s
+Generation 966/1000
+Best cover time: 7.30s
+Generation 967/1000
+Best cover time: 7.30s
+Generation 968/1000
+Best cover time: 7.30s
+Generation 969/1000
+Best cover time: 7.30s
+Generation 970/1000
+Best cover time: 7.30s
+Generation 971/1000
+Best cover time: 7.30s
+Generation 972/1000
+Best cover time: 7.30s
+Generation 973/1000
+Best cover time: 7.30s
+Generation 974/1000
+Best cover time: 7.30s
+Generation 975/1000
+Best cover time: 7.30s
+Generation 976/1000
+Best cover time: 7.30s
+Generation 977/1000
+Best cover time: 7.30s
+Generation 978/1000
+Best cover time: 7.30s
+Generation 979/1000
+Best cover time: 7.30s
+Generation 980/1000
+Best cover time: 7.30s
+Generation 981/1000
+Best cover time: 7.30s
+Generation 982/1000
+Best cover time: 7.30s
+Generation 983/1000
+Best cover time: 7.30s
+Generation 984/1000
+Best cover time: 7.30s
+Generation 985/1000
+Best cover time: 7.30s
+Generation 986/1000
+Best cover time: 7.30s
+Generation 987/1000
+Best cover time: 7.30s
+Generation 988/1000
+Best cover time: 7.30s
+Generation 989/1000
+Best cover time: 7.30s
+Generation 990/1000
+Best cover time: 7.30s
+Generation 991/1000
+Best cover time: 7.30s
+Generation 992/1000
+Best cover time: 7.30s
+Generation 993/1000
+Best cover time: 7.30s
+Generation 994/1000
+Best cover time: 7.30s
+Generation 995/1000
+Best cover time: 7.30s
+Generation 996/1000
+Best cover time: 7.30s
+Generation 997/1000
+Best cover time: 7.30s
+Generation 998/1000
+Best cover time: 7.30s
+Generation 999/1000
+Best cover time: 7.30s
+Generation 1000/1000
+Best cover time: 7.30s
