@@ -119,6 +119,12 @@ class PSO:
             # update the position
             particle.posi += particle.vel
 
+            # check the boundary
+            particle.posi[0] = particle.posi[0] % (2 * np.pi)       # vel_dir: 0 ~ 2π
+            particle.posi[1] = np.clip(particle.posi[1], 70, 140)   # vel_val: 70 ~ 140
+            particle.posi[2] = max(particle.posi[2], 1e-3)          # t_release > 0
+            particle.posi[3] = max(particle.posi[3], 1e-3)          # t_wait > 0
+
             # get current value and update the personal best
             curr_val = self.obj_func(particle.posi)
             if curr_val >= particle.best_val:
