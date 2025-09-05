@@ -96,6 +96,13 @@ class PSO:
         self.particles = [
             Particle.create_random_particle() for _ in range(self.num_particles)
         ]
+        # set a valid position
+        self.particles[0][0] = np.pi
+        self.particles[0][1] = 120.0
+        self.particles[0][2] = 1.5
+        self.particles[0][3] = 3.6
+
+        # set the best positions and values
         for particle in self.particles:
             # calculate the initial personal best value
             particle.best_val = self.obj_func(particle.posi)
