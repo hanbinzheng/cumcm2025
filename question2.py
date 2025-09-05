@@ -75,7 +75,7 @@ class PSO:
             self,
             objective_function = obj_func,
             num_particles = 50,
-            num_iterations = 50,
+            num_iterations = 150,
             w = 0.7,   # 惯性权重, 控制例子速度的惯性
             c1 = 1.5,  # 认知系数
             c2 = 1.5   # 社会系数
@@ -97,10 +97,10 @@ class PSO:
             Particle.create_random_particle() for _ in range(self.num_particles)
         ]
         # set a valid position
-        self.particles[0][0] = np.pi
-        self.particles[0][1] = 120.0
-        self.particles[0][2] = 1.5
-        self.particles[0][3] = 3.6
+        self.particles[0].posi[0] = np.pi
+        self.particles[0].posi[1] = 120.0
+        self.particles[0].posi[2] = 1.5
+        self.particles[0].posi[3] = 3.6
 
         # set the best positions and values
         for particle in self.particles:
@@ -129,8 +129,8 @@ class PSO:
             # check the boundary
             particle.posi[0] = particle.posi[0] % (2 * np.pi)       # vel_dir: 0 ~ 2π
             particle.posi[1] = np.clip(particle.posi[1], 70, 140)   # vel_val: 70 ~ 140
-            particle.posi[2] = max(particle.posi[2], 1e-3)          # t_release > 0
-            particle.posi[3] = max(particle.posi[3], 1e-3)          # t_wait > 0
+            particle.posi[2] = max(particle.posi[2], 0)          # t_release > 0
+            particle.posi[3] = max(particle.posi[3], 0)          # t_wait > 0
 
             # get current value and update the personal best
             curr_val = self.obj_func(particle.posi)
@@ -155,7 +155,7 @@ class PSO:
             )
 
 if __name__ == '__main__':
-    pso = PSO()
+    pso = PSO(w=0.75, c1=1.5, c2=1.5)
     pso.optimize()
     print("最优值 =", pso.global_best_val)
     print("最优位置 =", pso.global_best_posi)
