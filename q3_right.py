@@ -144,7 +144,7 @@ class NSGAII_drone_plan(object):
                 
                 # 投放的时间
                 while True:
-                    random_time_array=[random.uniform(0,10.0) for _ in range(3)]
+                    random_time_array=[random.uniform(0.0,10.0) for _ in range(3)]
                     random_time_array.sort()  # 直接排序
                     if (random_time_array[1]-random_time_array[0]>1.0) and (random_time_array[2]-random_time_array[1]>1.0):
                         plan[2]=random_time_array
@@ -198,7 +198,7 @@ class NSGAII_drone_plan(object):
                 base_times = mother_plan[2]
                 
             while True:
-                random_time_array = [abs(t + random.uniform(-0.5, 0.5)) for t in base_times]
+                random_time_array = [max((t + random.uniform(-0.3, 0.3)),0.0) for t in base_times]
                 random_time_array.sort()
                 if (random_time_array[1]-random_time_array[0]>1.0) and (random_time_array[2]-random_time_array[1]>1.0):
                     new_plan[2] = random_time_array
@@ -227,10 +227,12 @@ class NSGAII_drone_plan(object):
             max_angle_rad = np.radians(max_angle_deg)
             
             # 生成随机扰动
-            perturbation = np.random.uniform(-max_angle_rad, max_angle_rad, 3)
-            new_vector = base_vector + perturbation
-            new_vector /= np.linalg.norm(new_vector)
-            new_plan[0] = new_vector.tolist()
+            random_vec = np.array([1.0+random.uniform(-0.01, 0.01), random.uniform(-0.01, 0.01), 0.0])
+            norm = np.linalg.norm(random_vec)
+            unit_vector = random_vec / norm
+            new_plan[0][0] = -abs(unit_vector[0])
+            new_plan[0][1] = abs(unit_vector[1])
+            new_plan[0][2] = unit_vector[2]
             
             # 速度变异
             speed_change = random.uniform(-10, 10)
@@ -240,7 +242,7 @@ class NSGAII_drone_plan(object):
             if random.randint(0,1) == 0:
                 # 小变异
                 while True:
-                    random_time_array = [t + random.uniform(-0.5, 0.5) for t in base_plan[2]]
+                    random_time_array = [max((t + random.uniform(-0.3, 0.3)),0.0) for t in base_plan[2]]
                     random_time_array.sort()
                     if (random_time_array[1]-random_time_array[0]>1.0) and (random_time_array[2]-random_time_array[1]>1.0):
                         new_plan[2] = random_time_array
@@ -248,7 +250,7 @@ class NSGAII_drone_plan(object):
             else:
                 # 大变异
                 while True:
-                    random_time_array = [random.uniform(0, 4.0) for _ in range(3)]
+                    random_time_array = [random.uniform(0.01, 6.0) for _ in range(3)]
                     random_time_array.sort()
                     if (random_time_array[1]-random_time_array[0]>1.0) and (random_time_array[2]-random_time_array[1]>1.0):
                         new_plan[2] = random_time_array
@@ -256,7 +258,7 @@ class NSGAII_drone_plan(object):
 
             # 投出到爆炸的间隔时间
             for bomb_num in range(3):
-                new_plan[3][bomb_num] = random.uniform(0.0, 6.0)
+                new_plan[3][bomb_num] = random.uniform(0.0, 4.0)
                 
             newpop.append(new_plan)
             
@@ -293,17 +295,20 @@ class NSGAII_drone_plan(object):
     def do(self):
         pop = self.Initialization(100)
         for current_iter in range(self.maxiter):
-            print(f"Generation {current_iter + 1}/{self.maxiter}")
-            
+            a=[]
             pop1 = self.Crossover(pop)
             pop2 = self.Mutate(pop)
             pop, best_time = self.Combine(pop, pop1, pop2)
+
+            a.append(best_time)
+
+            print(f"Generation {current_iter + 1}/{self.maxiter}. Best time: {best_time:.2f}s.")
+            print(f"Best plan: {pop[0]}\n")
             
-            print(f"Best cover time: {best_time:.2f}s")
-            
-        return pop[0] if pop else None
+        return pop[0] if pop else None, a
         
 if __name__ == "__main__":
-    a = NSGAII_drone_plan(1000)
-    best_plan = a.do()
+    a = NSGAII_drone_plan(10000)
+    best_plan, b = a.do()
+    print(b)
     
