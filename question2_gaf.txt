@@ -1,0 +1,2000 @@
+At generation 0, the best: Evaluation: 3.7700000000000005
+drone 1, vel_dir: 0.09860333629291353, vel_val: 103.74075453808067, release at: [0.0574965]s, wait [np.float64(1.0592363189270728)]s before explode
+
+
+At generation 1, the best: Evaluation: 3.7700000000000005
+drone 1, vel_dir: 0.09860333629291353, vel_val: 103.74075453808067, release at: [0.0574965]s, wait [np.float64(1.0592363189270728)]s before explode
+
+
+At generation 2, the best: Evaluation: 3.7700000000000005
+drone 1, vel_dir: 0.09860333629291353, vel_val: 103.74075453808067, release at: [0.0574965]s, wait [np.float64(1.0592363189270728)]s before explode
+
+
+At generation 3, the best: Evaluation: 4.45
+drone 1, vel_dir: 0.09860333629291353, vel_val: 103.74075453808067, release at: [np.float64(0.04230040546462896)]s, wait [np.float64(0.9007394070490254)]s before explode
+
+
+At generation 4, the best: Evaluation: 4.529999999999999
+drone 1, vel_dir: 0.1409527440800711, vel_val: 96.00634172948193, release at: [np.float64(0.1353368941830689)]s, wait [np.float64(0.7703670935705713)]s before explode
+
+
+At generation 5, the best: Evaluation: 4.550000000000001
+drone 1, vel_dir: 0.1409527440800711, vel_val: 99.32311233458775, release at: [np.float64(0.0011399055658020407)]s, wait [np.float64(0.8546426298997455)]s before explode
+
+
+At generation 6, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 7, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 8, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 9, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 10, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 11, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 12, the best: Evaluation: 4.5600000000000005
+drone 1, vel_dir: 0.13879365582720807, vel_val: 104.6909758122342, release at: [0]s, wait [np.float64(0.8268623920366283)]s before explode
+
+
+At generation 13, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 14, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 15, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 16, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 17, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 18, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 19, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 20, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 21, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 22, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 23, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 24, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 25, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 26, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 27, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 28, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 29, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 30, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 31, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 32, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 33, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 34, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 35, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 36, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 37, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 38, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 39, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 40, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 41, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 42, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 43, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 44, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 45, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 46, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 47, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 48, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 49, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 50, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 51, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 52, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 53, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 54, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 55, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 56, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 57, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 58, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 59, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 60, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 61, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 62, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 63, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 64, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 65, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 66, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 67, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 68, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 69, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 70, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 71, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 72, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 73, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 74, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 75, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 76, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 77, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 78, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 79, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 80, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 81, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 82, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 83, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 84, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 85, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 86, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 87, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 88, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 89, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 90, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 91, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 92, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 93, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 94, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 95, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 96, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 97, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 98, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 99, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 100, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 101, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 102, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 103, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 104, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 105, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 106, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 107, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 108, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 109, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 110, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 111, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 112, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 113, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 114, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 115, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 116, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 117, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 118, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 119, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 120, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 121, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 122, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 123, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 124, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 125, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 126, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 127, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 128, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 129, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 130, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 131, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 132, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 133, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 134, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 135, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 136, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 137, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 138, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 139, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 140, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 141, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 142, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 143, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 144, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 145, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 146, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 147, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 148, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 149, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 150, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 151, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 152, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 153, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 154, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 155, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 156, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 157, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 158, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 159, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 160, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 161, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 162, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 163, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 164, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 165, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 166, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 167, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 168, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 169, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 170, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 171, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 172, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 173, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 174, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 175, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 176, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 177, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 178, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 179, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 180, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 181, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 182, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 183, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 184, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 185, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 186, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 187, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 188, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 189, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 190, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 191, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 192, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 193, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 194, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 195, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 196, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 197, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 198, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 199, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 200, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 201, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 202, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 203, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 204, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 205, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 206, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 207, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 208, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 209, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 210, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 211, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 212, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 213, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 214, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 215, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 216, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 217, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 218, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 219, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 220, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 221, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 222, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 223, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 224, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 225, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 226, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 227, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 228, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 229, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 230, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 231, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 232, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 233, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 234, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 235, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 236, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 237, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 238, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 239, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 240, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 241, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 242, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 243, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 244, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 245, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 246, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 247, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 248, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 249, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 250, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 251, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 252, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 253, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 254, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 255, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 256, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 257, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 258, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 259, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 260, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 261, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 262, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 263, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 264, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 265, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 266, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 267, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 268, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 269, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 270, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 271, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 272, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 273, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 274, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 275, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 276, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 277, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 278, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 279, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 280, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 281, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 282, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 283, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 284, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 285, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 286, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 287, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 288, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 289, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 290, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 291, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 292, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 293, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 294, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 295, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 296, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 297, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 298, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 299, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 300, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 301, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 302, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 303, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 304, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 305, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 306, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 307, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 308, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 309, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 310, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 311, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 312, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 313, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 314, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 315, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 316, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 317, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 318, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 319, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 320, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 321, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 322, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 323, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 324, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 325, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 326, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 327, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 328, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 329, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 330, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 331, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 332, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 333, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 334, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 335, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 336, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 337, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 338, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 339, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 340, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 341, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 342, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 343, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 344, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 345, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 346, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 347, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 348, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 349, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 350, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 351, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 352, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 353, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 354, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 355, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 356, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 357, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 358, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 359, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 360, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 361, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 362, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 363, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 364, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 365, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 366, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 367, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 368, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 369, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 370, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 371, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 372, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 373, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 374, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 375, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 376, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 377, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 378, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 379, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 380, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 381, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 382, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 383, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 384, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 385, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 386, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 387, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 388, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 389, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 390, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 391, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 392, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 393, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 394, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 395, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 396, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 397, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 398, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 399, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 400, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 401, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 402, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 403, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 404, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 405, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 406, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 407, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 408, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 409, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 410, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 411, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 412, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 413, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 414, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 415, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 416, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 417, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 418, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 419, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 420, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 421, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 422, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 423, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 424, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 425, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 426, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 427, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 428, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 429, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 430, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 431, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 432, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 433, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 434, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 435, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 436, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 437, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 438, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 439, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 440, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 441, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 442, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 443, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 444, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 445, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 446, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 447, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 448, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 449, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 450, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 451, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 452, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 453, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 454, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 455, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 456, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 457, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 458, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 459, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 460, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 461, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 462, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 463, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 464, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 465, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 466, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 467, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 468, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 469, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 470, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 471, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 472, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 473, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 474, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 475, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 476, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 477, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 478, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 479, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 480, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 481, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 482, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 483, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 484, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 485, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 486, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 487, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 488, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 489, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 490, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 491, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 492, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 493, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 494, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 495, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 496, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 497, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 498, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
+At generation 499, the best: Evaluation: 4.57
+drone 1, vel_dir: 0.12660752875882786, vel_val: 102.99829863042393, release at: [0.0713828]s, wait [0.84481248]s before explode
+
+
