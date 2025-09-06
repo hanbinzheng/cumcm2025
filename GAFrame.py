@@ -80,9 +80,24 @@ class Genome(ABC):
     def get_copy(self) -> "Genome":
         return self.__class__(copy.deepcopy(self.drone_plans))
 
-    @abstractmethod
     def get_info(self) -> str:
-        pass
+        # method to get the info of the genome
+        info = ""
+
+        # get all the info
+        for idx in range(1, len(self.drone_plans) + 1):
+            drone_plan = self.drone_plans[idx - 1]
+            vel_dir = drone_plan.vel_dir
+            vel_val = drone_plan.vel_val
+            t_release = drone_plan.t_release
+            t_wait = drone_plan.t_wait
+
+            vel_info = f"vel_dir: {vel_dir}, vel_val: {vel_val}, "
+            t_info = f"release at: {t_release}s, wait {t_wait}s before explode\n"
+
+            info += (f"drone {idx}, " + vel_info + t_info)
+
+        return info
 
     @abstractmethod
     def mutate(self, mutation_rate: float):
