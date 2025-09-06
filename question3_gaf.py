@@ -23,21 +23,21 @@ class Genome3(Genome):
 
         # mute the vel_dir
         if np.random.rand() < mutation_rate:
-             plan.vel_dir += np.random.uniform(-np.pi/18, np.pi/18)
+             plan.vel_dir += np.random.uniform(-np.pi/12, np.pi/12)
 
         # mute the vel_val
         if np.random.rand() < mutation_rate:
-            new_vel_val = plan.vel_val + np.random.uniform(-5, 5)
+            new_vel_val = plan.vel_val + np.random.uniform(-10.0, 10.0)
             plan.vel_val = np.clip(new_vel_val, 70.0, 140.0)  # check boundary
 
         # mute the t_release
         if np.random.rand() < mutation_rate:
-            new_t_release = plan.t_release + np.random.uniform(-0.2, 0.2, 3)
+            new_t_release = plan.t_release + np.random.uniform(-1.0, 1.0, 3)
             plan.t_release = np.clip(new_t_release, 0.0, 1e2)
 
         # mute the t_wait
         if np.random.rand() < mutation_rate:
-            new_t_wait = plan.t_wait + np.random.uniform(-0.2, 0.2, 3)
+            new_t_wait = plan.t_wait + np.random.uniform(-1.0, 1.0, 3)
             plan.t_wait = np.clip(new_t_wait, 0.0, 1e2)
 
     def crossover(self, pair_genome: "Genome3") -> Tuple["Genome3", "Genome3"]:
@@ -47,22 +47,18 @@ class Genome3(Genome):
         magnitude = 0.5
 
         # mutate the velocity
-        par_vel1 = np.array([plan1.vel_dir, plan1.vel_val])
-        par_vel2 = np.array([plan2.vel_dir, plan2.vel_val])
-
-        child_vel1 = np.clip(
-            magnitude * par_vel1 + (1 - magnitude) * par_vel2,
-            70.0,
-            140.0
-        )
-        child_vel2 = np.clip(
-            magnitude * par_vel2 + (1 - magnitude) * par_vel1,
-            70.0,
-            140.0
+        child1_vel_dir = plan1.vel_dir * magnitude + (1 - magnitude) * plan2.vel_dir
+        child1_vel_val = np.clip(
+            plan1.vel_val * magnitude + (1 - magnitude) * plan2.vel_val, 70.0, 140.0
         )
 
-        plan1.vel_dir, plan2.vel_dir = child_vel1[0], child_vel2[0]
-        plan1.vel_val, plan2.vel_val = child_vel1[1], child_vel2[1]
+        child2_vel_dir = plan2.vel_dir * magnitude + (1 - magnitude) * plan1.vel_dir
+        child2_vel_val = np.clip(
+            plan2.vel_val * magnitude + (1 - magnitude) * plan1.vel_val, 70.0, 140.0
+        )
+        
+        plan1.vel_dir, plan2.vel_dir = child1_vel_dir, child2_vel_dir
+        plan1.vel_val, plan2.vel_val = child1_vel_val, child2_vel_val
 
         # mutate the time
         par_t_release1, par_t_release2 = plan1.t_release, plan2.t_release
@@ -114,17 +110,17 @@ class Evaluator3(Evaluator):
             t_exp = t_release + plan.t_wait[idx]
             missile_exp = missile_posi + t_exp * v_missile
 
-            for t in np.linspace(0.0, 20.0, 2001):
+            for t in np.linspace(0.0, 20.0, 201):
                 smoke_posi_now = plan.get_smoke_posi(t + t_exp)[idx]
                 if smoke_posi_now is None:
                     continue
 
                 missile_now = missile_exp + t * v_missile
 
-                if self.whether_blocked(missile_now, smoke_posi_now):
+                if self.whether_blocked_simple(missile_now, smoke_posi_now):
                     time_list.append(t + t_exp)
 
-        return self.__class__.calculate_total_time(time_list, 1e-2)
+        return self.__class__.calculate_total_time(time_list, 0.19)
 
 
 class GeneticAlgorithm3(GeneticAlgorithm):
@@ -147,58 +143,67 @@ class GeneticAlgorithm3(GeneticAlgorithm):
     def initialize_pop(self, pop_size: int) -> List[Individual]:
         pop = []
 
-        # add a valid individual 4.70s
+        # add a valid individual 4.69s
         plan = SingleDronePlan(
             init_posi = np.array([17800.0, 0.0, 1800.0]),
-            vel_dir = np.pi - 0.0058484,
-            vel_val = 119.04132869183755,
+            vel_dir = 3.138734594663325,
+            vel_val = 95.53315144880676,
             t_release = np.array([
-                0.27225166041894844,
-                1.4141872352269902 - 0.27225166041894844,
-                7.8196489621119225 - 1.4141872352269902
+                5.83314342e-04, 1.09184040e+00, 1.83565661e+00
             ]),
             t_wait = np.array([
-                0.230217011218242,
-                3.941950924383737,
-                3.9580433878443215
-            ])
-        )
-        genome = Genome3([plan])
-        pop.append(Individual(genome))
-        # add a valid individual 5.80s
-        plan = SingleDronePlan(
-            init_posi = np.array([17800.0, 0.0, 1800.0]),
-            vel_dir = np.pi - 0.0094405844,
-            vel_val = 79.67570687978107,
-            t_release = np.array([
-                0.13498821717161102,
-                1.3646443474201302 - 0.13498821717161102,
-                2.8358090092435333 - 1.3646443474201302
-            ]),
-            t_wait = np.array([
-                1.8569791241597366, 3.3046120832452317, 3.0118646297956873
-            ])
-        )
-        genome = Genome3([plan])
-        pop.append(Individual(genome))
-        # add a valid individual 6.60s
-        plan = SingleDronePlan(
-            init_posi = np.array([17800.0, 0.0, 1800.0]),
-            vel_dir = np.pi - 0.00238633496,
-            vel_val = 89.99678020054995,
-            t_release = np.array([
-                0.00058331434179154,
-                1.0924237145022797 - 0.00058331434179154,
-                2.9280803241571847 - 1.0924237145022797,
-            ]),
-            t_wait = np.array([
-                0.12601158987295058, 2.749657885351035, 3.9112060643897655
+                0.0, 3.73068478, 3.96467676
             ])
         )
         genome = Genome3([plan])
         pop.append(Individual(genome))
 
-        for i in range(pop_size - 3):
+        # add a valid individual 4.50s
+        plan = SingleDronePlan(
+            init_posi = np.array([17800.0, 0.0, 1800.0]),
+            vel_dir = 0.10570374302020343,
+            vel_val = 123.288008617581,
+            t_release = np.array([
+                0.02500057, 0.02902798, 2.39741573
+            ]),
+            t_wait = np.array([
+                2.6459009,  0.48762429, 4.73639645
+            ])
+        )
+        genome = Genome3([plan])
+        pop.append(Individual(genome))
+
+        # add a valid individual 6.19s
+        plan = SingleDronePlan(
+            init_posi = np.array([17800.0, 0.0, 1800.0]),
+            vel_dir = 0.1460053606438416,
+            vel_val = 127.90179868301934,
+            t_release = np.array([
+                0.0, 0.12179974, 2.65560477
+            ]),
+            t_wait = np.array([
+                1.00038769, 0.17474348, 4.92598046
+            ])
+        )
+        genome = Genome3([plan])
+        pop.append(Individual(genome))
+
+        # 5.024735255645854
+        plan = SingleDronePlan(
+            init_posi = np.array([17800.0, 0.0, 1800.0]),
+            vel_dir = 0.1460053606438416,
+            vel_val = 124.57654040545049,
+            t_release = np.array([
+                0.0, 0.70084213, 3.55608462
+            ]),
+            t_wait = np.array([
+                0.52557739, 0.0, 4.24751896
+            ])
+        )
+        genome = Genome3([plan])
+        pop.append(Individual(genome))
+
+        for i in range(pop_size - 4):
             plan = SingleDronePlan(
                 init_posi = np.array([17800.0, 0.0, 1800.0]),
                 vel_dir = np.random.rand() * 2 * np.pi,
@@ -214,10 +219,10 @@ class GeneticAlgorithm3(GeneticAlgorithm):
 
 if __name__ == '__main__':
     GA = GeneticAlgorithm3(
-        pop_size = 50,
+        pop_size = 200,
         evaluator = Evaluator3(),
         crossover_rate = 0.5,
         mutation_rate = 0.5,
-        num_gen = 50
+        num_gen = 1000
     )
     GA.evolve()
