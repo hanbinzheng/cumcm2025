@@ -9,19 +9,6 @@ class Genome2(Genome):
                  drone_plans: List[SingleDronePlan]):
         super().__init__(drone_plans)
 
-    def get_info(self) -> str:
-        # get all the info
-        drone_plan = self.drone_plans[0]
-        vel_dir = drone_plan.vel_dir
-        vel_val = drone_plan.vel_val
-        t_release = drone_plan.t_release
-        t_wait = drone_plan.t_wait
-
-        vel_info = f"vel_dir: {vel_dir}, vel_val: {vel_val}, "
-        t_info = f"release at: {t_release}s, wait {t_wait}s before explode"
-
-        return vel_info + t_info
-
     def mutate(self, mutation_rate: float):
         # get the plan
         plan = self.drone_plans[0]
@@ -126,7 +113,7 @@ class GeneticAlgorithm2(GeneticAlgorithm):
     def initialize_pop(self, pop_size: int) -> List[Individual]:
         pop = []
 
-        # set an valid position
+        # add a valid individual 1.4 s
         plan = SingleDronePlan(
             init_posi = np.array([17800.0, 0.0, 1800.0]),
             vel_dir = - np.pi,
@@ -137,8 +124,30 @@ class GeneticAlgorithm2(GeneticAlgorithm):
         genome = Genome2([plan])
         pop.append(Individual(genome))
 
-        # random initialize
-        for i in range(pop_size - 1):
+        # add an valid individual 3.45s
+        plan = SingleDronePlan(
+            init_posi = np.array([17800.0, 0.0, 1800.0]),
+            vel_dir = 0.09860333629291353,
+            vel_val = 103.74075453808067,
+            t_release = [0.05749650043805793],
+            t_wait = [1.108349395648169]
+        )
+        genome = Genome2([plan])
+        pop.append(Individual(genome))
+
+        # add an valid individual 3.72
+        plan = SingleDronePlan(
+            init_posi = np.array([17800.0, 0.0, 1800.0]),
+            vel_dir = 3.13716632,
+            vel_val = 110.47039479,
+            t_release = [1.59236746],
+            t_wait = [4.04594687]
+        )
+        genome = Genome2([plan])
+        pop.append(Individual(genome))
+
+        # random initialize the rest one
+        for i in range(pop_size - 3):
             plan = SingleDronePlan(
                 init_posi = np.array([17800.0, 0.0, 1800.0]),
                 vel_dir = np.random.rand() * 2 * np.pi,
