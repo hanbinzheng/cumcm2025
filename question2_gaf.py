@@ -78,13 +78,14 @@ class Evaluator2(Evaluator):
         )
 
         time_list = []
-        for t in np.linspace(0.0, 20.0, 2001):
+        for t in np.linspace(0.0, 20.0, 401):
             smoke_posi_now = plan.get_smoke_posi(t + t_explode)[0]
             if smoke_posi_now is None:
                 continue
 
             missile_posi_now = missile_posi + t * self.v_missile[0]
-            if self.whether_blocked(missile_posi_now, smoke_posi_now):
+            # whether_blocked is also valid
+            if self.whether_blocked_simple(missile_posi_now, smoke_posi_now):
                 time_list.append(t)
 
         if len(time_list) < 2:
