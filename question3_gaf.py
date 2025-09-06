@@ -115,7 +115,7 @@ class Evaluator3(Evaluator):
             missile_exp = missile_posi + t_exp * v_missile
 
             for t in np.linspace(0.0, 20.0, 2001):
-                smoke_posi_now = plan.get_smoke_posi(t + t_exp)[0]
+                smoke_posi_now = plan.get_smoke_posi(t + t_exp)[idx]
                 if smoke_posi_now is None:
                     continue
 
