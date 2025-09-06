@@ -60,8 +60,8 @@ class Genome2(Genome):
 
         plan1.vel_dir, plan2.vel_dir = child1[0], child2[0]
         plan1.vel_val, plan2.vel_val = child1[1], child2[1]
-        plan1.t_release, plan2.t_release = [child1[2]], [child2[2]]
-        plan1.t_wait, plan2.t_wait = [child1[3]], [child2[3]]
+        plan1.t_release, plan2.t_release = np.array([child1[2]]), np.array([child2[2]])
+        plan1.t_wait, plan2.t_wait = np.array([child1[3]]), np.array([child2[3]])
 
         return copy1, copy2
 
@@ -118,8 +118,8 @@ class GeneticAlgorithm2(GeneticAlgorithm):
             init_posi = np.array([17800.0, 0.0, 1800.0]),
             vel_dir = - np.pi,
             vel_val = 120.0,
-            t_release = [1.5],
-            t_wait = [3.6]
+            t_release = np.array([1.5]),
+            t_wait = np.array([3.6])
         )
         genome = Genome2([plan])
         pop.append(Individual(genome))
@@ -129,8 +129,8 @@ class GeneticAlgorithm2(GeneticAlgorithm):
             init_posi = np.array([17800.0, 0.0, 1800.0]),
             vel_dir = 0.09860333629291353,
             vel_val = 103.74075453808067,
-            t_release = [0.05749650043805793],
-            t_wait = [1.108349395648169]
+            t_release = np.array([0.05749650043805793]),
+            t_wait = np.array([1.108349395648169])
         )
         genome = Genome2([plan])
         pop.append(Individual(genome))
@@ -140,8 +140,8 @@ class GeneticAlgorithm2(GeneticAlgorithm):
             init_posi = np.array([17800.0, 0.0, 1800.0]),
             vel_dir = 3.13716632,
             vel_val = 110.47039479,
-            t_release = [1.59236746],
-            t_wait = [4.04594687]
+            t_release = np.array([1.59236746]),
+            t_wait = np.array([4.04594687])
         )
         genome = Genome2([plan])
         pop.append(Individual(genome))
@@ -152,8 +152,8 @@ class GeneticAlgorithm2(GeneticAlgorithm):
                 init_posi = np.array([17800.0, 0.0, 1800.0]),
                 vel_dir = np.random.rand() * 2 * np.pi,
                 vel_val = np.random.uniform(70, 140),
-                t_release = [np.random.rand() * 5],
-                t_wait = [np.random.rand() * 5]
+                t_release = np.array([np.random.rand() * 5]),
+                t_wait = np.array([np.random.rand() * 5])
             )
             genome = Genome2([plan])
             pop.append(Individual(genome))

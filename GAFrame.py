@@ -19,8 +19,8 @@ class SingleDronePlan:
             init_posi: np.ndarray,
             vel_dir: float,  # direction in angles
             vel_val: float,  # velocity value
-            t_release: List[float],
-            t_wait: List[float]
+            t_release: np.ndarray,
+            t_wait: np.ndarray
     ):
         # here, t_wait means the wait time after release
         # t_wait[i] is the time after the i^th release
