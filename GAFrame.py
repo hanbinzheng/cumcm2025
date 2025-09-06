@@ -117,6 +117,7 @@ class Evaluator(ABC):
             -300 * v / np.linalg.norm(v) for v in missile_init_posi
         ]
 
+    # helper method to determine whether blocked
     @staticmethod
     def whether_blocked(
             missile_posi: np.ndarray, smoke_posi: np.ndarray
@@ -129,6 +130,28 @@ class Evaluator(ABC):
         - smoke_posi: the position of the smoke
         """
         return is_blocked(missile_posi, smoke_posi)
+
+    # helper function to determine the total valid time
+    @staticmethod
+    def calculate_total_time(time_list: List[float], epsilon: float) -> float:
+        all_times = sorted(set(time_list))
+
+        if not all_times:
+            return 0.0
+
+        total_time = 0.0
+        start, end = 0.0, 0.0
+
+        for i in range(1, len(all_times)):
+            if all_times[i] - all_times[i-1] <= epsilon:
+                end = all_times[i]
+            else:
+                total_time += end - start
+                start = all_times[i]
+                end = all_times[i]
+
+        total_time += end - start
+        return total_time
 
     @abstractmethod
     def evaluate(self, genome: Genome) -> float:

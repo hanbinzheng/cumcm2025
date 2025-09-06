@@ -101,27 +101,6 @@ class Evaluator3(Evaluator):
         missile_posi = np.array([20000.0, 0.0, 2000.0])
         super().__init__([missile_posi])
 
-    @staticmethod
-    def calculate_total_time(time_list: List[float], epsilon: float) -> float:
-        all_times = sorted(set(time_list))
-
-        if not all_times:
-            return 0.0
-
-        total_time = 0.0
-        start, end = 0.0, 0.0
-
-        for i in range(1, len(all_times)):
-            if all_times[i] - all_times[i-1] <= epsilon:
-                end = all_times[i]
-            else:
-                total_time += end - start
-                start = all_times[i]
-                end = all_times[i]
-
-        total_time += end - start
-        return total_time
-
     def evaluate(self, genome: Genome3) -> float:
         plan = genome.drone_plans[0]
         t_release = 0.0
