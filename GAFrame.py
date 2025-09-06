@@ -130,6 +130,19 @@ class Evaluator(ABC):
         - smoke_posi: the position of the smoke
         """
         return is_blocked(missile_posi, smoke_posi)
+    
+    @staticmethod
+    def whether_blocked_simple(
+            missile_posi: np.ndarray, smoke_posi: np.ndarray
+    ) -> bool:
+        tgt = np.array([0.0, 200.0, 5.0])
+        mis_tgt = missile_posi - tgt
+        smoke_tgt = smoke_posi - tgt
+
+        # get the distance between the smoke and the mist_tgt
+        dist = np.linalg.norm(np.cross(mis_tgt, smoke_tgt)) / np.linalg.norm(mis_tgt)
+
+        return dist <= 10.0
 
     # helper function to determine the total valid time
     @staticmethod
