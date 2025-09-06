@@ -140,7 +140,7 @@ class Evaluator(ABC):
             return 0.0
 
         total_time = 0.0
-        start, end = 0.0, 0.0
+        start, end = all_times[0], all_times[0]
 
         for i in range(1, len(all_times)):
             if all_times[i] - all_times[i-1] <= epsilon:
